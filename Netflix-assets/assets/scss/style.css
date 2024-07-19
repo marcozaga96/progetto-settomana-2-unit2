@@ -1,0 +1,23 @@
+.navbar-brand {
+  width: 10%;
+}
+.navbar-brand .img {
+  width: 100%;
+}
+
+nav ul li a {
+  width: 100%;
+}
+
+.img2 {
+  width: 6%;
+}
+
+.d-flex {
+  justify-content: end;
+  align-items: center;
+}
+
+main ul li {
+  list-style-type: none;
+}/*# sourceMappingURL=style.css.map */
